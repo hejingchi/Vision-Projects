@@ -1,0 +1,38 @@
+# MATLAB 自动生成文件
+*.m~
+*.mat
+*.asv
+*.slxc
+*.slx~
+*.slprj
+*.mlappinstall
+*.mltbx
+*.fig
+*.p
+*.mex*
+
+# 缓存和临时文件
+*.aux
+*.log
+*.out
+*.toc
+*.tmp
+*.bak
+
+# 数据文件（如果不想提交大文件）
+Data/
+Test/
+Feature/
+*.csv
+*.xlsx
+*.txt
+
+# 图片结果
+*.png
+*.jpg
+*.fig
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
